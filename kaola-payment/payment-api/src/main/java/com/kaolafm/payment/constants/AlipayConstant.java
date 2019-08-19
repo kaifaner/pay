@@ -7,7 +7,7 @@ package com.kaolafm.payment.constants;
 public class AlipayConstant {
 
     //支付宝公钥
-    public static final String PUBLIC_KEY="支付宝公钥";
+    public static final String PUBLIC_KEY="支付宝公钥1";
 
     //应用私钥
     public static final  String PRIVATE_KEY="应用私钥";
